@@ -49,3 +49,8 @@
 //     console.log(i);
 //     i++
 // }while(i <= 5);
+
+const frutas = {
+    nombre : "Manzana",
+    color : "Rojo",
+}
