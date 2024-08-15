@@ -130,5 +130,12 @@ frustas.shift()
 //se guardan en una variable, no tienen nombre.
 //arrow function(funciones flecha)
 
+//JSON.stringify/ JSON.parse
+//1Imagina que tienen un objeto, una lista de cosas con valor y nombre
+//2 Hace lo contrario, convierte una cadena de texto en un objeto que puedes usar en tu codigo
+
+//Manejo de datos json en aplicaciones web
+//guardar datos en el localstorage
+//localstorage es una manera de guardar dtos en el navegador de un usuario. Sin embargo, Local solo guarda cadenas de texto no objetos
 
 
