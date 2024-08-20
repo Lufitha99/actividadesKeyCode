@@ -1,6 +1,1 @@
-{
-"Producto":"Laptop",
-"Marca": "Dell",
-"Precio":1200.50,
-"En stock": true
-}
+Este es mi primer archivo de notas
